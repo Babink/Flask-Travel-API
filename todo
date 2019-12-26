@@ -1,0 +1,14 @@
+Authentication (working...)
+    -> Login (done)
+    -> Register (done)
+    -> User Delete (done)
+    -> Logout (done)
+    -> Refresh Token prob left
+E-Tickets
+Reserve Specific Seats
+
+Database Collection
+1. Reservation
+2. Bus
+3. Routes
+4. Users
